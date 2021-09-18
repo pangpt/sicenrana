@@ -33,3 +33,5 @@ Route::get('/kontak', 'HomeController@kontak')->name('kontak');
 Route::get('/layanan', 'HomeController@layanan')->name('layanan');
 Route::get('/survey', 'HomeController@survey')->name('survey');
 Route::get('/struktur-organisasi', 'HomeController@struktur')->name('struktur');
+
+Route::get('/admin/dashboard','Admin\DashboardController@index')->name('dashboard');

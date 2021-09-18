@@ -1,12 +1,10 @@
-<!-- Libs CSS -->
-<link rel="stylesheet" href="./assets/fonts/feather/feather.css" />
-<link rel="stylesheet" href="./assets/libs/flatpickr/dist/flatpickr.min.css" />
-<link rel="stylesheet" href="./assets/libs/quill/dist/quill.core.css" />
-<link rel="stylesheet" href="./assets/libs/highlightjs/styles/vs2015.css" />
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets-admin/css/bootstrap.css">
 
-<!-- Map -->
-<link href="https://api.mapbox.com/mapbox-gl-js/v0.53.0/mapbox-gl.css" rel="stylesheet" />
+<link rel="stylesheet" href="/assets-admin/vendors/iconly/bold.css">
 
-<!-- Theme CSS -->
-
-<link rel="stylesheet" href="./assets/css/theme.min.css">
+<link rel="stylesheet" href="/assets-admin/vendors/perfect-scrollbar/perfect-scrollbar.css">
+<link rel="stylesheet" href="/assets-admin/vendors/bootstrap-icons/bootstrap-icons.css">
+<link rel="stylesheet" href="/assets-admin/css/app.css">
+<link rel="shortcut icon" href="/assets-admin/images/favicon.svg" type="image/x-icon">
